@@ -144,23 +144,6 @@ To retrain or fine-tune the model yourself:
 
 The training script generates synthetic data on-the-fly, so you can easily modify the data generation logic to add more variations or formats.
 
-## License
-
-[Choose your license - MIT, Apache 2.0, etc.]
-
-## Citation
-
-If you use this model in your research or application, please cite:
-
-```bibtex
-@misc{bible-verse-extractor,
-  author = {Your Name},
-  title = {Bible Verse Reference Extractor},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/bible-verse-extractor}
-}
-```
 
 ## Contributing
 
@@ -170,12 +153,5 @@ Contributions are welcome! Please feel free to submit a Pull Request. Areas wher
 - Improving handling of abbreviated book names
 - Training data from real-world sources
 - Multi-language support
-- Bug fixes and performance improvements
 
-## Acknowledgments
 
-Built with [Hugging Face Transformers](https://huggingface.co/transformers/) and the T5 model architecture.
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub or contact [your contact info].
