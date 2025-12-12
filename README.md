@@ -1,3 +1,5 @@
+![Extractor Logo](./extractor_logo.png)
+
 # Bible Verse Reference Extractor
 
 A fine-tuned T5 model that extracts structured Bible verse references from natural language text.
@@ -139,7 +141,7 @@ To retrain or fine-tune the model yourself:
 
 1. Clone this repository
 2. Install dependencies: `pip install transformers datasets sentencepiece accelerate evaluate`
-3. Run the training script: `python verse_extractor_training.py`
+3. Run the training script: `python verse_extractor_training.jpynb`
 4. The model will be saved to `./bible_t5_model_v1/`
 
 The training script generates synthetic data on-the-fly, so you can easily modify the data generation logic to add more variations or formats.
